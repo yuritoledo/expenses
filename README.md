@@ -1,1 +1,1 @@
-# Minimalist Webpack4 boilerplate with Hot Reload
+# Studies for tests in react with jest and enzyme
