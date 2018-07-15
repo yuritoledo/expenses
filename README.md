@@ -1,0 +1,1 @@
+# Minimalist Webpack4 boilerplate with Hot Reload
